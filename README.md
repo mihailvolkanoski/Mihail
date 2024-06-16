@@ -1,8 +1,8 @@
 # Hi there, I'm Mihail👋
 
 ## About Me
-
-- 🌱 I’m currently learning JavaScript, React, and Node.js
+- ✍️ I'm working with HTML, CSS and JavaScript
+- 🌱 I’m currently learning React, and Node.js
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about HTML, CSS, and JavaScript
 
